@@ -1,5 +1,5 @@
 ### Hi 👋, my names is Rashaun Williams I am currently a computer science major at Sewanee: The University of the South
-I'm currently working on a mobile fitness tracking app (ios) and a Pacman game (JUnit, Java) 
+I'm currently working on a note taking app (ios) 
 - Email: rashaunjwilliams@gmail.com or willirj0@sewanee.edu
 - LinkedIn: www.linkedin.com/in/rashaunwilliams
 <!--
