@@ -1,4 +1,4 @@
-### Hi 👋, my names is Rashaun Williams I am currently a computer science major at Sewanee: The University of the South
+### Hi 👋, my name is Rashaun Williams I am currently a computer science major at Sewanee: The University of the South
 - Email: rashaunjwilliams@gmail.com or willirj0@sewanee.edu
 - LinkedIn: www.linkedin.com/in/rashaunwilliams
 <!--
