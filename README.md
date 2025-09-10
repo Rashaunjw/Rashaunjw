@@ -64,3 +64,6 @@ I'm currently a senior studying CS @ Sewanee - The University of the South and a
 
 - Feel free to shoot me an email if you want to contact me: [rashaunjwilliams@gmail.com](mailto:rashaunjwilliams@gmail.com) or [willirj0@sewanee.edu](mailto:willirj0@sewaneee.edu)
 
+
+- [📄 View My Resume](./Rashaun_Williams_Resume_FullStack.pdf)
+
