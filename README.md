@@ -55,9 +55,6 @@ I'm currently a senior studying CS @ Sewanee - The University of the South and a
 </p>
 
 
-- [📄 View My Resume](./Rashaun_Williams_Resume_FullStack.pdf)
-
-
 <h3>Where to find me</h3>
 <p>
   <a href="(https://github.com/Rashaunjw)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
