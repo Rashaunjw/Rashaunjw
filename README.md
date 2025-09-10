@@ -10,9 +10,9 @@ public class Rashaun {
 I'm currently a senior studying CS @ Sewanee - The University of the South and a Junior Software Engineer at [Relai](https://www.relai.us/)
 
 📚 Currently reading:
-- [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
-- [C++ High Performance](https://www.amazon.com/High-Performance-Master-optimizing-functioning/dp/1839216549)
-- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Elements of Programming Interviews in Python (Coding Interview Patterns)](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
 
 ### Things I code with
 <p>
