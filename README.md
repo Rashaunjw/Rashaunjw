@@ -4,7 +4,7 @@
 public class Rashaun {
   private int age = 21;
   public String[] traits = new String[] { "above average height", "male", "open-minded" };
-  public String[] hobbies = new String[] { "Coding!", "Working out", "Watching Anime", "Listening to music", "Reading" };
+  public String[] hobbies = new String[] { "Coding", "Working out", "Watching Anime", "Listening to music", "Reading" };
 }
 ```
 I'm currently a senior studying CS @ Sewanee - The University of the South and a Junior Software Engineer at [Relai](https://www.relai.us/)
