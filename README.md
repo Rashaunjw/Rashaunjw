@@ -14,7 +14,7 @@ I'm currently a senior studying CS @ Sewanee - The University of the South and a
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Elements of Programming Interviews in Python (Coding Interview Patterns)](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
 
-### Things I code with
+### Things I code with / help me code
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
